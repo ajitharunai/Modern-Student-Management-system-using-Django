@@ -4,13 +4,12 @@ A modern Student Management System 👨‍🎓 with features like Interactive Da
 
 ![SMS_Banner](https://akash1362000.github.io/styles/images/Django%20Student%20Management%20System%20Banner.jpg)
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://student-management-webapp.herokuapp.com/)
-[![travis-ci](https://api.travis-ci.com/Akash1362000/Django_Student_Management_System.svg?token=nv6BYq1BY3w4kf8uZuGj&branch=main)](https://travis-ci.com/github/Akash1362000/Django_Student_Management_System/)
+[![travis-ci](https://api.travis-ci.com/Akash1362000/Django_Student_Management_System.svg?token=nv6BYq1BY3w4kf8uZuGj&branch=main)](https://github.com/ajitharunai/Modern-Student-Management-system-using-Django.git)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkash1362000%2FDjango_Student_Management_System%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Akash1362000/Django_Student_Management_System/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ajitharunai/Modern-Student-Management-system-using-Django.git)
 
 
-Checkout the live Website [here](https://student-management-webapp.herokuapp.com/)!
+Checkout the live Website [here](#)!
 
 Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJBoFuCHJdtb0SJwdiLgE6iOgjUG/view?usp=sharing)! 📜
 
@@ -18,7 +17,7 @@ Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJB
 
 <table>
 		<tr>
-		<td>align="center"><img src="https://media.licdn.com/dms/image/C5603AQEXyggPlfsvtg/profile-displayphoto-shrink_400_400/0/1663687599420?e=1677110400&v=beta&t=htMwG70UrIDN9whZnnbdsTk6E-EcAGGLplbc9_zzVrI"  width=100px;"><br /><sub><b>Ajith Kumar M</b></sub><br/><a href="https://github.com/ajitharunai">👨‍💻🚴‍♂️📸</a></td>
+		<td align="center"><img src="https://pfpmaker.com/_nuxt/img/New3.101298d.svg"  width=100px;"><br /><sub><b>Ajith Murugan</b></sub><br/><a href="https://github.com/ajitharunai">👨‍💻🚴‍♂️📸</a></td>
 			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
 		   <td align="center"><img src="https://i.imgur.com/zvN556m.jpg"  width=100px;"><br /><sub><b>Akanksha Tamboli</b></sub><br/><a href="https://github.com/akankshast">💻🎨</a></td>
 			<td align="center"><img src="https://i.imgur.com/fVE1MSw.jpg"  width=100px;"><br /><sub><b>Shreejit Nair</b></sub><br/><a href="https://github.com/ShreejitNair">🎓🏏📱</a></td>			<td align="center"><img src="https://i.imgur.com/oKHebZM.jpg"  width=100px;"><br /><sub><b>Samiksha Naik</b></sub><br/><a href="https://github.com/samiksha8888989">💃📸</a></td>
@@ -31,7 +30,7 @@ Note : Make sure you have Python version 3.8+
 
 Environment Setup 🚀
 
-`$ git clone https://github.com/Akash1362000/Django_Student_Management_System.git`
+`$ git clone https://github.com/ajitharunai/Modern-Student-Management-system-using-Django.git`
 
 `$ cd Django_Student_Management_System/`
 
