@@ -17,7 +17,7 @@ Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJB
 
 <table>
 		<tr>
-		<td align="center"><img src="https://pfpmaker.com/_nuxt/img/New3.101298d.svg"  width=100px;"><br /><sub><b>Ajith Murugan</b></sub><br/><a href="https://github.com/ajitharunai">👨‍💻🚴‍♂️📸</a></td>
+		<td align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhS9j23csLRSuTPT_cieVObgMPTULVnZdv0oWQHy8_nLkLPmQvfNHD0SHteLQiYjXgVaKc1b-z9la9RMnMLux9uWHkH-QTTQXdjqYGfMhT6I8jPJ4Il3joKhpuvboqwM1IbTMymsZlqhDj9Kg3F50bCCBVWPEZ96Tnv4s_r1_1AI_JFrx4tkDRPIZ/s16000/profile-pic%20(5).png"  width=100px;"><br /><sub><b>Ajith Murugan</b></sub><br/><a href="https://github.com/ajitharunai">👨‍💻🚴‍♂️📸</a></td>
 			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
 		   <td align="center"><img src="https://i.imgur.com/zvN556m.jpg"  width=100px;"><br /><sub><b>Akanksha Tamboli</b></sub><br/><a href="https://github.com/akankshast">💻🎨</a></td>
 			<td align="center"><img src="https://i.imgur.com/fVE1MSw.jpg"  width=100px;"><br /><sub><b>Shreejit Nair</b></sub><br/><a href="https://github.com/ShreejitNair">🎓🏏📱</a></td>			<td align="center"><img src="https://i.imgur.com/oKHebZM.jpg"  width=100px;"><br /><sub><b>Samiksha Naik</b></sub><br/><a href="https://github.com/samiksha8888989">💃📸</a></td>
