@@ -18,6 +18,7 @@ Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJB
 
 <table>
 		<tr>
+		td align="center"><img src="https://media.licdn.com/dms/image/C5603AQEXyggPlfsvtg/profile-displayphoto-shrink_400_400/0/1663687599420?e=1677110400&v=beta&t=htMwG70UrIDN9whZnnbdsTk6E-EcAGGLplbc9_zzVrI"  width=100px;"><br /><sub><b>Ajith Kumar M</b></sub><br/><a href="https://github.com/ajitharunai">👨‍💻🚴‍♂️📸</a></td>
 			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
 		   <td align="center"><img src="https://i.imgur.com/zvN556m.jpg"  width=100px;"><br /><sub><b>Akanksha Tamboli</b></sub><br/><a href="https://github.com/akankshast">💻🎨</a></td>
 			<td align="center"><img src="https://i.imgur.com/fVE1MSw.jpg"  width=100px;"><br /><sub><b>Shreejit Nair</b></sub><br/><a href="https://github.com/ShreejitNair">🎓🏏📱</a></td>			<td align="center"><img src="https://i.imgur.com/oKHebZM.jpg"  width=100px;"><br /><sub><b>Samiksha Naik</b></sub><br/><a href="https://github.com/samiksha8888989">💃📸</a></td>
