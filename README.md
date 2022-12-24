@@ -11,7 +11,7 @@ A modern Student Management System 👨‍🎓 with features like Interactive Da
 
 Checkout the live Website [here](#)!
 
-Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJBoFuCHJdtb0SJwdiLgE6iOgjUG/view?usp=sharing)! 📜
+Find the detailed project report [here](#)! 📜
 
 ### Meet the Developers ✨🌟
 
